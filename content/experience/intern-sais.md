@@ -17,6 +17,6 @@ weight: 304
 - Gained insights into the applications of AI and Computer Vision in medical diagnosis
 - Acquired experience in working with limited and sensitive healthcare data -->
 
-![](/experience/origin-health/img1.jpeg#center)
+<!-- ![](/experience/origin-health/img1.jpeg#center)
 ![](/experience/origin-health/img2.jpeg)
-![](/experience/origin-health/img3.jpeg)
+![](/experience/origin-health/img3.jpeg) -->

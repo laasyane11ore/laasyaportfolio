@@ -13,5 +13,5 @@ weight: 302
 - Experience with statistical analysis tools including R, Python, and GIS.
 - Built dynamic dashboards by extracting insights from the sensor data using features like pollution, temperature using Rshiny.
 
-
-![](/experience/buyerassist/imgp.png#center)
+<!-- 
+![](/experience/buyerassist/imgp.png#center) -->
